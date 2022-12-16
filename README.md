@@ -1,0 +1,1 @@
+# Numerical-method---Julia-set-for-c-exp-iwt-
